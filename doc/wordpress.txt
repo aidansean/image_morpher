@@ -1,0 +1,10 @@
+*.gif images have been around for a long time, but this is something a bit different.  It takes an array of images and changes between them randomly with random intervals of time.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/image_morpher/">Live page</a>
+<a href="https://github.com/aidansean/image_morpher">GitHub repository</a>
+
+<h3>Overview</h3>
+
+The canvas is used to load images and switch between them.  The time interval is determined randomly, and images are selected at random, so this differs from the traditional .gif images in a fundamental way.
